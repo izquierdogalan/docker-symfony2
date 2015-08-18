@@ -2,7 +2,7 @@
 FROM izquierdogalan/docker-nginx-php5-fpm
 
 # specify maintainer
-MAINTAINER Jonathan Izquierdo <ja.izquierdo.galan@gmail.com>
+MAINTAINER Jonathan Izquierdo Galan <ja.izquierdo.galan@gmail.com>
 
 # install composer
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
