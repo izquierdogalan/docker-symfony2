@@ -9,7 +9,7 @@ This is the base image preconfigured with Ubuntu, Nginx, PHP-FPM to use with Sym
 
 **Build**
 
-	docker build -t "izquierdogalan/symfony2" .
+	docker build -t "izquierdogalan/docker-symfony2" .
 
 **Run**
 
