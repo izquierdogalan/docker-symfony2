@@ -13,7 +13,7 @@ This is the base image preconfigured with Ubuntu, Nginx, PHP-FPM to use with Sym
 
 **Run**
 
-	docker run -t -i -p 8080:80 -v /path/to/symfony:/var/www/ "izquierdogalan/symfony2" /bin/bash
+	docker run -t -i -p 8080:80 -v /path/to/symfony:/var/www/ "izquierdogalan/docker-symfony2" /bin/bash
 
 **Launch**
 
